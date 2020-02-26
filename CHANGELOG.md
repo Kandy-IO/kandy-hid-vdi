@@ -1,5 +1,11 @@
-## 1.3.1-0 - 2020-01-31
+# Changelog
+All notable changes to this project will be documented in this file.
 
+The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
+and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html). However, DLL versions also add a -X identifier, which represent the version of the eLux package
+
+
+## 1.3.1-0 - 2020-01-31
 ### Added
 - In Citrix VDI, filtering of known / supported devices has been removed, meaning that kandy-hid will attempt to manage any HID-compatible device selected by the user <sup>1</sup>
 - In Desktop, the ability to use the Jabra Evolve 80 and Jabra Speak 750 has been added <sup>1</sup>
