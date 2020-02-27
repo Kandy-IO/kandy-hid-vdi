@@ -18,7 +18,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## 1.2.0-1 - 2019-11-04
 ### Added
-- One of each supported type of HID device may now be connected to a Thin Client simultaneously.
+- One of each supported type of HID device may now be connected to a Thin Client simultaneously
 
 ## 1.1.0-1 - 2019-08-16
 ### Added
