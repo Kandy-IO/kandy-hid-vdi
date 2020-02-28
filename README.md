@@ -2,7 +2,7 @@
 
 ## Kandy HID Driver for VDI
 
-As part of the [Kandy VDI Toolkit](https://github.com/Kandy-IO/kandy-distant-toolkit), the Kandy HID Driver for VDI is an optional component that enables the use of HID devices in a Citrix VDI environement. The driver is used in conjunction with the [Kandy HID SDK](https://github.com/Kandy-IO/kandy-hid-sdk) running on the VDI Virtual Desktop.
+As part of the [Kandy VDI Toolkit](https://github.com/Kandy-IO/kandy-vdi-toolkit), the Kandy HID Driver for VDI is an optional component that enables the use of HID devices in a Citrix VDI environement. The driver is used in conjunction with the [Kandy HID SDK](https://github.com/Kandy-IO/kandy-hid-sdk) running on the VDI Virtual Desktop.
 
 ## Installation
 
