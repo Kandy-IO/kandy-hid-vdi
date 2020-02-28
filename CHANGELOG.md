@@ -16,7 +16,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ### Changed
 - Rebuild of 1.2.0-1 to address a bug in the VDI Toolkit, which was built using the wrong version of RTC.DLL
 
-## 1.2.1-0 2020-01-10
+## 1.2.1-0 - 2020-01-10
 ### Added
 - Ability to disable the DLL (killswitch)
 
