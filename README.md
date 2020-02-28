@@ -1,14 +1,8 @@
 # @kandy-io/kandy-hid-vdi
 
-The Kandy HID Toolkit is an optional library that abstracts HID device functions to the application developer in standard desktop and VDI environments. It is currently supported for Electron based WebRTC applications running on Windows and Mac desktops and on Citrix VDI with eLux thin clients.<br>
+## Kandy HID Driver for VDI
 
-The Kandy HID Toolkit enables application developers to handle HID device call operations.<br>
-
-The Kandy HID Toolkit is currently supported with several Jabra headsets, with support for HID devices from other vendors possible.
-
-This repository contains the Citrix Plugin for the Kandy HID Toolkit.
-
-In order to use this software the [corresponding Javascript SDK](https://github.com/Kandy-IO/kandy-hid-sdk) is also required.
+As part of the Kandy VDI Toolkit, the Kandy HID Driver for VDI is an optional component that enables the use of HID devices in a Citrix VDI environement. The driver is used in conjunction with the [Kandy HID SDK](https://github.com/Kandy-IO/kandy-hid-sdk) running on the VDI Virtual Desktop.
 
 ## Installation
 
