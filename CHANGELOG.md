@@ -4,7 +4,7 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html). However, eLux packages also include a -X identifier, which represents the version of the eLux package
 
-## 1.3.1-0 - 2020-02-28
+## 1.3.1-0 - 2020-03-05
 ### Added
 - A 64-bit (RP6) version of this package is available
 
